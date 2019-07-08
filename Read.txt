@@ -6,4 +6,3 @@ Instruction :
 5) enter two numbers with country code (ex. 910000000000) first two digits are country code, remaining the mob number.
 6) whatsapp web will ask you to login using QR code, do that and it will send the message automatically.
 
-This is demo, i will add a database connection and student info with their result will be send using mob no. saved in DB.
